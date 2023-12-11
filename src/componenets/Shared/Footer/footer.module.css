@@ -1,0 +1,87 @@
+.main{
+    background-color: #2972ab;
+    width: 99.2vw;
+    display: flex;
+    color: #cccccc;
+    padding-bottom: 2rem;
+}
+
+.divOne{
+width: 33%;
+border: solid 1px #3b81b8;
+}
+
+.divTwo{
+width: 33%;
+border: solid 1px #3b81b8;
+}
+
+
+.divThree{
+    width: 33%;
+    border: solid 1px #3b81b8;
+}
+
+.footerPoints img{
+    width: 6%;
+    height: 5%;
+}
+
+.footerPoints div{
+    display: flex;
+    gap: 20px;
+    margin-top: 15px;
+}
+
+.footerPoints p {
+    cursor: pointer;
+}
+
+.divOneInside p{
+    text-wrap: wrap;
+}
+
+.divOneInside {
+    padding-left: 3rem;
+    padding-top: 2rem;
+}
+
+.divTwo{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding-left: 3rem;
+    padding-top: 2rem;
+}
+
+.sectionOne{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+}
+
+.sectionOne button{
+    all: unset;
+    border: solid 2px #3b81b8;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.divThree{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 40px;
+    padding-left: 3rem;
+}
+
+.divThree div{
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+
+    
+

@@ -1,0 +1,19 @@
+.textInput{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* margin: 1rem; */
+    margin-bottom: 1.5rem;
+}
+
+.textInput label{
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.textInput input{
+    all: unset;
+    padding: 1rem;
+    background-color: #eee;
+    font-size: 1.2rem;
+}

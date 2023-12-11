@@ -1,0 +1,38 @@
+.main{
+    background-color: rgb(219, 227, 171);
+    width: 100vw;
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 4rem
+}
+
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.right button{
+    border: none;
+    background-color: #418ED5;
+    padding: .6rem;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.left h4{
+display: inline-block;
+font-weight: 100;
+}
+
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding-left: 2rem;
+}
